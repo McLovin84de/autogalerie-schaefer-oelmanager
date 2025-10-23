@@ -1,0 +1,25 @@
+
+:root{
+  --bg:#0b0f12;
+  --card:#0f1720;
+  --accent:#1f6feb;
+  --text:#e6eef8;
+  --muted:#9aa6b2;
+}
+body{background:var(--bg); color:var(--text); font-family:Inter,system-ui,Arial; margin:0}
+header{display:flex;align-items:center;gap:16px;padding:12px 20px;border-bottom:1px solid rgba(255,255,255,0.04)}
+header img{height:54px;border-radius:6px}
+.app{max-width:1100px;margin:20px auto;padding:12px}
+.logo{height:80px;margin-bottom:10px}
+.login{max-width:420px;margin:60px auto;padding:24px;background:var(--card);border-radius:8px;text-align:center}
+.login input{width:80%;padding:10px;margin:8px 0;border-radius:6px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:var(--text)}
+.login button{padding:8px 14px;border-radius:6px;background:var(--accent);color:white;border:0}
+.searchbox{display:flex;gap:8px;margin:18px 0}
+.searchbox input{flex:1;padding:10px;border-radius:6px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:var(--text)}
+.searchbox button{padding:10px 14px;border-radius:6px;background:var(--accent);color:white;border:0}
+.tablewrap{background:var(--card);padding:8px;border-radius:8px}
+table{width:100%;border-collapse:collapse}
+th,td{padding:10px;border-bottom:1px solid rgba(255,255,255,0.03);text-align:left}
+.cat-LongLifeSpezial{color:#ffd166;font-weight:600}
+.cat-Standard{color:#8ad49a;font-weight:600}
+.cat-PremiumHochleistung{color:#ff6b6b;font-weight:700}

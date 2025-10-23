@@ -1,0 +1,72 @@
+[
+  {
+    "hersteller": "EUROLUB",
+    "bezeichnung": "ECO LL 0W-30 1L",
+    "freigaben": "VW 504/507",
+    "kategorie": "LongLife Spezial",
+    "preis": null,
+    "vk": 24.9,
+    "marge": null,
+    "history": []
+  },
+  {
+    "hersteller": "EUROLUB",
+    "bezeichnung": "ECO PS-C 0W-30 1L (PSA B71 2312)",
+    "freigaben": "PSA B71 2312",
+    "kategorie": "LongLife Spezial",
+    "preis": null,
+    "vk": 24.9,
+    "marge": null,
+    "history": []
+  },
+  {
+    "hersteller": "EUROLUB",
+    "bezeichnung": "Super Eco 0W-20 1L (Volvo RBS0-2AE)",
+    "freigaben": "Volvo RBS0-2AE",
+    "kategorie": "LongLife Spezial",
+    "preis": null,
+    "vk": 24.9,
+    "marge": null,
+    "history": []
+  },
+  {
+    "hersteller": "EUROLUB",
+    "bezeichnung": "Synt 5W-40 1L",
+    "freigaben": "ACEA A3/B4",
+    "kategorie": "Standard",
+    "preis": null,
+    "vk": 19.9,
+    "marge": null,
+    "history": []
+  },
+  {
+    "hersteller": "ROWE",
+    "bezeichnung": "HIGHTEC SYNT RS LONGLIFE IV SAE 0W-20",
+    "freigaben": "BMW LL-04, VW 504/507",
+    "kategorie": "Premium Hochleistung",
+    "preis": null,
+    "vk": 34.9,
+    "marge": null,
+    "history": []
+  },
+  {
+    "hersteller": "SHELL",
+    "bezeichnung": "Helix Ultra 0W-40 1L",
+    "freigaben": "Porsche A40",
+    "kategorie": "Premium Hochleistung",
+    "preis": null,
+    "vk": 34.9,
+    "marge": null,
+    "history": []
+  },
+  {
+    "hersteller": "ENI",
+    "bezeichnung": "HFS 5W-40 1L",
+    "freigaben": "VW 502 00/505 00",
+    "kategorie": "Standard",
+    "preis": null,
+    "vk": 18.9,
+    "marge": null,
+    "history": []
+  }
+]
